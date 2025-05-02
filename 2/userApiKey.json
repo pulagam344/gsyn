@@ -1,9 +1,15 @@
 {
   "388f6fd3-9641-4461-b433-303dd6e482a6": [
     {
-      "privateKey": "77ed2b84c467ad61d2394686a4298fa08802949d0fae01dbca75c20081cf2fee",
-      "publicKey": "0228094e21e1dcf65c8eeba414864f48892d3d77cbb0ea23644494059ab6e1d59d",
-      "createdAt": "2025-04-09T10:30:29.584Z",
+      "privateKey": "01c356c05050ed8f9a6cf1819961c3af311435a858d7fecc4bb86f23a80961cf",
+      "publicKey": "03923fb7326f9191ff8180d19f096a70ec19190710bf1c8b00a0db32c86ac5e7f7",
+      "createdAt": "2025-05-02T13:28:31.475Z",
+      "activated": true
+    },
+    {
+      "privateKey": "0252f40b17d74c6321df2032a90ccd949c8500808eb69dc8f0fe44d153cd7b6e",
+      "publicKey": "0223d503304fa9d12688fdf0850af771545352c2ef49aba7ab3d2e22791ee08fa3",
+      "createdAt": "2025-05-02T13:28:56.031Z",
       "activated": true
     }
   ]
